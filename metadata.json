@@ -1,0 +1,7 @@
+{
+  "name": "TimeCube Dashboard",
+  "description": "TimeCube is a mechatronic orientation-sensing device developed to automate billable hour tracking. Rotating the cube triggers automatic task logging for specific work codes. The project integrates mechanical, electronic, and software systems into a tactile prototype to simplify time management.",
+  "requestFramePermissions": [
+    "bluetooth"
+  ]
+}
